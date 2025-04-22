@@ -5,7 +5,7 @@ This repository contain figures showing the SOLAR and WIND energy generation (CF
 ## Repository Structure
 
 * `mjo_enso/`: The RE generation during a mean MJO phase day for an ENSO mode year (El Nino, La Nina or neutral). Contains subfolders with country names. Inside each country folder there are two files. The file name of the format "_diurnal_mjo_cfs_{countryname}_enso_combined.pdf_" shows the diurnal cycle of CFs for a mean MJO phase day. The file name "_combined_4x2_missing_wind_diurnal_mjo_t_yield_{coutryname}_enso.pdf_" shows the total generation for the country during a mean MJO phase day and the deviation from the climatology.
-* `regime/`: Folder structure is similar to MJO. But each individual country folder has only one file. The file "combined_regime_cfs_{countryname}.pdf" show all the CFs and yield information for a mean AOR day.
+* `regime/`: Folder structure is similar to MJO. But each individual country folder has only one file. The file "_combined_regime_cfs_{countryname}.pdf_" show all the CFs and yield information for a mean AOR day.
 * `MSRs_Each_Country_LCOE-VAR-75-25/`: Illustrated representation of MSRs for country with annual mean CF values at the MSRs shown.
 * `README.md`: This file, providing a general overview of the repository.
 
